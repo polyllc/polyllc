@@ -1,8 +1,9 @@
 ### professional C++ googler
 not really, but I enjoy using a variety of languages and frameworks including
-- JavaScript (including HTML, CSS)
+- TypeScript (JavaScript is dead to me) (including HTML, CSS)
 - C++
-- Svelte
+- Svelte(kit)
+- Next.js (stockholm syndrome)
 - Java
 - PHP (if only)
 
